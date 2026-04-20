@@ -13,7 +13,5 @@ Traditional Transformers have **O(n²)** time and memory complexity due to full 
 - Evaluate performance on long-sequence datasets
 - Benchmark against standard Transformer models
 
----
--Note that this is a project that I still continue to work on and is still in its formative stages.
----
+
 
